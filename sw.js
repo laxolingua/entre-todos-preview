@@ -5,13 +5,13 @@
 
 const CACHE_NAME = 'entre-todos-v1';
 const STATIC_ASSETS = [
-  '/entre-todos-preview/app.html',
-  '/entre-todos-preview/index.html',
-  '/entre-todos-preview/consulta-popular-cuba.html',
-  '/entre-todos-preview/propuestas-transicion-cuba.html',
-  '/entre-todos-preview/candidaturas-cuba.html',
-  '/entre-todos-preview/entre-todos-logo.png',
-  '/entre-todos-preview/manifest.json'
+  '/app.html',
+  '/index.html',
+  '/consulta-popular-cuba.html',
+  '/propuestas-transicion-cuba.html',
+  '/candidaturas-cuba.html',
+  '/entre-todos-logo.png',
+  '/manifest.json'
 ];
 
 /* ── INSTALL: precache assets esenciales ── */

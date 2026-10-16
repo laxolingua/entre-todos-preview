@@ -2,8 +2,8 @@
   "name": "ENTRE TODOS",
   "short_name": "ENTRE TODOS",
   "description": "Plataforma de Gobernanza Ciudadana para Cuba",
-  "start_url": "/entre-todos-preview/app.html",
-  "scope": "/entre-todos-preview/",
+  "start_url": "/app.html",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#002A8F",
@@ -11,13 +11,13 @@
   "lang": "es",
   "icons": [
     {
-      "src": "/entre-todos-preview/thumbnail-logo.png",
+      "src": "thumbnail-logo.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
     },
     {
-      "src": "/entre-todos-preview/thumbnail-logo.png",
+      "src": "thumbnail-logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
