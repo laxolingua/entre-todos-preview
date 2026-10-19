@@ -818,8 +818,8 @@
    "texto": "Crear un órgano electoral independiente, permanente y descentralizado, con el registro de electores a su cargo, que dirija los procesos electorales con acompañamiento internacional, tras la renuncia de los actuales directivos.",
    "incisos": "Sus cinco miembros se eligen por concurso entre ciudadanos con formación en administración electoral, ante una representación de la ONU.",
    "categoria": "Sistema Electoral",
-   "documentos": 5,
-   "planteada_por": "Cuba Próxima · Pasos de Cambio · Centro de Estudios Convivencia · Cuba Próxima y Consejo para la Transición Democrática en Cuba",
+   "documentos": 6,
+   "planteada_por": "Cuba Próxima · Pasos de Cambio · Centro de Estudios Convivencia · Cuba Próxima y Consejo para la Transición Democrática en Cuba · Gobernanza Solucionaria",
    "url": "https://entre-todos.org/propuesta/autoridad-electoral-independiente/"
   },
   {
@@ -1811,6 +1811,36 @@
    "documentos": 1,
    "planteada_por": "Gobernanza Solucionaria",
    "url": "https://entre-todos.org/propuesta/financiamiento-solo-publico/"
+  },
+  {
+   "id": "estado-neutral-juramento",
+   "titulo": "Un Estado ideológicamente neutral, con juramento público de neutralidad",
+   "texto": "Que el Estado sea ideológicamente neutral en su estructura y funcionamiento, y que toda persona que asuma una función pública suscriba un juramento público de neutralidad e imparcialidad política e ideológica, verificable y auditado.",
+   "incisos": "El incumplimiento documentado del juramento activa la revisión del cargo. La neutralidad no es indiferencia ante el daño: el Estado protege los derechos fundamentales y reduce el sufrimiento evitable.",
+   "categoria": "Proceso Constituyente",
+   "documentos": 1,
+   "planteada_por": "Gobernanza Solucionaria",
+   "url": "https://entre-todos.org/propuesta/estado-neutral-juramento/"
+  },
+  {
+   "id": "parlamento-mixto-sorteo",
+   "titulo": "Un parlamento mixto: representantes electos y ciudadanos elegidos por sorteo",
+   "texto": "Una Asamblea Nacional formada en un sesenta por ciento por representantes electos por sufragio directo, en un treinta por ciento por ciudadanos sorteados del padrón con mandato de dos años y en un diez por ciento por voces técnicas sin voto.",
+   "incisos": "Los ciudadanos sorteados reciben formación, compensación suficiente y protección laboral. Los representantes electos tienen mandato de cuatro años, renovable una vez.",
+   "categoria": "Proceso Constituyente",
+   "documentos": 1,
+   "planteada_por": "Gobernanza Solucionaria",
+   "url": "https://entre-todos.org/propuesta/parlamento-mixto-sorteo/"
+  },
+  {
+   "id": "candidaturas-independientes-plataforma-plural",
+   "titulo": "Candidaturas independientes comprometidas con una plataforma plural",
+   "texto": "Que quienes no militan en ningún partido puedan respaldar y presentar candidaturas independientes comprometidas públicamente a gobernar con una plataforma plural, construida con las propuestas ciudadanas y de organizaciones que la ciudadanía haya comparado y priorizado.",
+   "incisos": "Participar sin militar en ningún partido es un derecho tan democrático como crear, integrar o apoyar uno. Una persona que viene de un partido puede optar por la vía independiente si renuncia a imponer la plataforma cerrada de su organización. El candidato no presenta una agenda personal cerrada: representa las propuestas priorizadas en un proceso transparente, plural y verificable.",
+   "categoria": "Sistema Electoral",
+   "documentos": 1,
+   "planteada_por": "Alternativa No Partidista de Cuba",
+   "url": "https://entre-todos.org/propuesta/candidaturas-independientes-plataforma-plural/"
   }
  ]
 }
