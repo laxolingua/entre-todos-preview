@@ -1,1 +1,16 @@
-<!doctype html><html lang="es"><head><meta charset="utf-8"><title>ENTRE TODOS</title><meta name="robots" content="noindex"><link rel="canonical" href="https://entre-todos.org/academia/"><meta http-equiv="refresh" content="0; url=/entre-todos-preview/academia/"><script>location.replace("/entre-todos-preview/academia/"+location.hash)</script></head><body><p><a href="/entre-todos-preview/academia/"><span translate="no" class="notranslate">ENTRE TODOS</span></a></p></body></html>
+<!doctype html><html lang="es"><head><script>(function(){try{var s=localStorage.getItem('et-ligera'),c=navigator.connection||{};
+var on=s==='1'||(s===null&&(c.saveData||/(^|-)2g$|^3g$/.test(c.effectiveType||'')));
+if(on){document.documentElement.className+=' ligera';
+document.write('<meta http-equiv="Content-Security-Policy" content="img-src data: blob:">');}}catch(e){}})();</script><meta charset="utf-8"><title>ENTRE TODOS</title><meta name="robots" content="noindex"><link rel="canonical" href="https://entre-todos.org/academia/"><meta http-equiv="refresh" content="0; url=/entre-todos-preview/academia/"><script>location.replace("/entre-todos-preview/academia/"+location.hash)</script><style>
+html.ligera body, html.ligera body *:not(i) { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial, sans-serif !important; }
+html.ligera img { display: none !important; }
+html.ligera .duo, html.ligera .foto, html.ligera .cat-banda, html.ligera .tarjeta-foto, html.ligera .banda-fondo .foto {
+  background-color: #0b1d3f !important; background-image: radial-gradient(rgba(255,255,255,.18) 1px, transparent 1.3px) !important; background-size: 9px 9px !important; min-height: 60px; }
+.et-ligera-aviso { display: none; }
+html.ligera .et-ligera-aviso { display: flex; gap: 10px; justify-content: center; align-items: center; flex-wrap: wrap; background: #f4c20d; color: #0b1d3f; font: 600 .85rem/1.3 system-ui, sans-serif; padding: 6px 12px; text-align: center; }
+.et-ligera-aviso button, .et-ligera-pie button { font: inherit; background: none; border: 0; padding: 0; color: inherit; text-decoration: underline; cursor: pointer; }
+.et-ligera-pie { margin-top: 10px; font-size: .85rem; }
+</style></head><body><div class="et-ligera-aviso" role="note">Versión ligera: sin fotos para gastar menos datos. <button type="button" data-et-ligera="0">Ver con fotos</button></div><p><a href="/entre-todos-preview/academia/"><span translate="no" class="notranslate">ENTRE TODOS</span></a></p><script>(function(){var l=document.documentElement.classList.contains('ligera');
+document.querySelectorAll('[data-et-ligera]').forEach(function(b){
+if(b.closest('.et-ligera-pie')){b.textContent=l?'Ver la versión con fotos':'Activar la versión ligera (sin fotos, menos datos)';b.dataset.etLigera=l?'0':'1';}
+b.addEventListener('click',function(){try{localStorage.setItem('et-ligera',b.dataset.etLigera);}catch(e){}location.reload();});});})();</script></body></html>
