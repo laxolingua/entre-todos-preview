@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["_astro/participacion.iZ8dOR5p.js","_astro/preload-helper.DHhhL8Zf.js"])))=>i.map(i=>d[i]);
+import{t as e}from"./preload-helper.DHhhL8Zf.js";document.addEventListener(`click`,e=>{if(e.target.closest(`a[href^="#doc-"], a[data-abrir-fuentes]`)){let e=document.querySelector(`.fuentes-detalle`);e&&(e.open=!0)}}),e(()=>import(`./participacion.iZ8dOR5p.js`).then(e=>e.iniciarParticipacion()),__vite__mapDeps([0,1]));
